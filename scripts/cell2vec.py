@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import toponetx as tnx
-from scripts import topology
+import topology
 import json
 import glob
 from pathlib import Path
