@@ -17,11 +17,11 @@ cc = topology.build_drug_target_complex(
 )
 
 # Create a model
-model = tex.CellDiff2Vec(dimensions=3, workers=16, diffusion_cover=180)
+model = tex.CellDiff2Vec(dimensions=3, diffusion_cover=27)
 
 # Fit the model to the combinatorial complex across all ranks
 
-model.fit(cc, neighborhood_type="adj", neighborhood_dim={"rank": 1, "via_rank": 2})
+model.fit(cc, neighborhood_type="coadj", neighborhood_dim={"rank": 2, "via_rank": 0})
 
 # Get the embeddings
 embedded_points = model.get_embedding(get_dict=True)
