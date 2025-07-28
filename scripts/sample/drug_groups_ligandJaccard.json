@@ -1,0 +1,89 @@
+[
+  {
+    "drug_id": "['DB00121']",
+    "similar_drug_ids": [
+      "['DB00153']",
+      "['DB00181']"
+    ]
+  },
+  {
+    "drug_id": "['DB00153']",
+    "similar_drug_ids": [
+      "['DB00121']",
+      "['DB00223']"
+    ]
+  },
+  {
+    "drug_id": "['DB00170']",
+    "similar_drug_ids": []
+  },
+  {
+    "drug_id": "['DB00176']",
+    "similar_drug_ids": []
+  },
+  {
+    "drug_id": "['DB00178']",
+    "similar_drug_ids": [
+      "['DB00205']",
+      "['DB00211']"
+    ]
+  },
+  {
+    "drug_id": "['DB00180']",
+    "similar_drug_ids": [
+      "['DB00223']"
+    ]
+  },
+  {
+    "drug_id": "['DB00181']",
+    "similar_drug_ids": [
+      "['DB00121']",
+      "['DB00195']",
+      "['DB00211']"
+    ]
+  },
+  {
+    "drug_id": "['DB00195']",
+    "similar_drug_ids": [
+      "['DB00181']",
+      "['DB00211']"
+    ]
+  },
+  {
+    "drug_id": "['DB00205']",
+    "similar_drug_ids": [
+      "['DB00178']"
+    ]
+  },
+  {
+    "drug_id": "['DB00208']",
+    "similar_drug_ids": []
+  },
+  {
+    "drug_id": "['DB00211']",
+    "similar_drug_ids": [
+      "['DB00178']",
+      "['DB00181']",
+      "['DB00195']"
+    ]
+  },
+  {
+    "drug_id": "['DB00214']",
+    "similar_drug_ids": []
+  },
+  {
+    "drug_id": "['DB00222']",
+    "similar_drug_ids": []
+  },
+  {
+    "drug_id": "['DB00223']",
+    "similar_drug_ids": [
+      "['DB00153']",
+      "['DB00180']"
+    ]
+  },
+  {
+    "drug_id": "['DB00227']",
+    "similar_drug_ids": []
+  }
+]

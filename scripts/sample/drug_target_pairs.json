@@ -1,0 +1,902 @@
+[
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00121']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00153']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00170']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00176']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00178']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00180']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00181']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00195']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00205']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00208']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00211']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00214']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 10060,
+    "interaction": 1
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00222']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00223']",
+    "target_id": 1133,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 100,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 10013,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 10060,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 10381,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1080,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 10846,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1128,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1129,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 113,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1131,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1132,
+    "interaction": 0
+  },
+  {
+    "drug_id": "['DB00227']",
+    "target_id": 1133,
+    "interaction": 0
+  }
+]
